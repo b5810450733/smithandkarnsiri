@@ -20,6 +20,7 @@
         }
         .headerZone{
             background: linear-gradient(45deg, #ea6c6e 0%, #f6bd74 100%);
+            background: lightcoral;
             width: 100%;
         }
         #loading{
